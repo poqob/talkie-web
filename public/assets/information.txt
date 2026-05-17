@@ -1,0 +1,44 @@
+name: Talkie: WiFi Walkie Talkie
+
+short description: Instant, secure, and offline voice communication on your local WiFi network.
+
+long description: Turn your phone into a premium Push-to-Talk (PTT) device.
+
+Talkie is the simplest, fastest, and most secure way to communicate with people nearby. No internet? No problem. Talkie works entirely on your local WiFi network, ensuring your conversations stay private and latency-free.
+
+Designed with a philosophy of "Invisible Interface," Talkie removes all the clutter. No logins, no accounts, no complex settings. Just open the app, and you are instantly connected to other devices on the same network.
+
+✨ Key Features:
+
+    📱 Zero Internet Required: Works seamlessly on your local WiFi or Hotspot. Perfect for home, office, or places with spotty reception.
+
+    ⚡ Instant PTT (Push-to-Talk): Experience real-time voice transmission with zero lag.
+
+    📳 Haptic Touch Experience: Feel the click. High-quality haptic feedback makes the on-screen button feel like a real mechanical switch.
+
+    🔒 Private & Secure: Your voice data never leaves your local network. No cloud servers, no tracking.
+
+    🎨 Minimalist Design: A clean, modern interface inspired by high-end industrial design. Focus only on what matters: Voice.
+
+    🔋 Battery Efficient: Optimized to run in the background without draining your power.
+
+🏠 Perfect For:
+
+    Calling family members to dinner without shouting across the house.
+
+    Quick inter-office communication.
+
+    Coordinating setup at events or construction sites.
+
+    Anyone who loves simple, beautifully designed tools.
+
+How to use:
+
+    Connect all devices to the same WiFi network.
+
+    Open Talkie.
+
+    Press and hold the button to speak. That’s it!
+
+Rediscover the joy of simple communication. Download Talkie today.
+
